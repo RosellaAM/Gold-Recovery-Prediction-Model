@@ -4,7 +4,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/)
 [![Machine Learning](https://img.shields.io/badge/Machine-Learning-blueviolet)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Panads](https://img.shields.io/badge/Pandas-1.0%252B-brightgreen)]
+[![Pandas](https://img.shields.io/badge/Pandas-1.0%252B-brightgreen)](https://pandas.pydata.org/)
 
 **Gold Recovery Prediction Model** is a machine learning solution for Zyfra that predicts gold recovery rates from raw ore during the purification process. The project addresses the challenge of optimizing gold extraction efficiency in mining operations through regression models that anticipate recovery percentages at both rougher and final stages. The system analyzes historical operational parameters and laboratory measurements to build predictive models that can serve as the foundation for an automated control system, eliminating non-profitable parameters and maximizing production yield.
 
